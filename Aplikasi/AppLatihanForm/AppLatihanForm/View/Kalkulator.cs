@@ -12,8 +12,14 @@ namespace AppLatihanForm.View
 {
     public partial class Kalkulator : Form
     {
+        //tahap 0
+
+        private Entity.EntityKalkulator kalkulator; //untuk variabel
+        private Interface.IKalkulator kalkulatorDao; //untuk proses
+
         public Kalkulator()
         {
+            kalkulatorDao = Factory.FactoryKalkulator.GetKalkulatorDao(); //untuk manggil implemen nya
             InitializeComponent();
         }
 
@@ -38,6 +44,22 @@ namespace AppLatihanForm.View
         }
 
         private void btnBagi_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTambah_Click(object sender, EventArgs e)
+        {
+            kalkulator = new Entity.EntityKalkulator();
+            //input
+            kalkulator.SetNilai1(double.Parse(txtBoxNilai1.Text));
+            kalkulator.SetNilai2(double.Parse(txtBoxNilai2.Text));
+
+            //proses + output
+            txtBoxHasil.Text = kalkulatorDao.Penjumlahan(kalkulator).ToString();
+        }
+
+        private void Kalkulator_Load(object sender, EventArgs e)
         {
 
         }

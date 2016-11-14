@@ -30,11 +30,11 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btnTambah = new System.Windows.Forms.Button();
-            this.btnKurang = new System.Windows.Forms.Button();
-            this.btnKali = new System.Windows.Forms.Button();
-            this.btnBagi = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
+            this.btnBagi = new System.Windows.Forms.Button();
+            this.btnKali = new System.Windows.Forms.Button();
+            this.btnKurang = new System.Windows.Forms.Button();
+            this.btnTambah = new System.Windows.Forms.Button();
             this.txtBoxNilai1 = new System.Windows.Forms.TextBox();
             this.lblNilai1 = new System.Windows.Forms.Label();
             this.lblNilai2 = new System.Windows.Forms.Label();
@@ -69,32 +69,14 @@
             this.panel1.Size = new System.Drawing.Size(84, 104);
             this.panel1.TabIndex = 2;
             // 
-            // btnTambah
+            // btnClear
             // 
-            this.btnTambah.Location = new System.Drawing.Point(4, 4);
-            this.btnTambah.Name = "btnTambah";
-            this.btnTambah.Size = new System.Drawing.Size(36, 23);
-            this.btnTambah.TabIndex = 0;
-            this.btnTambah.Text = "+";
-            this.btnTambah.UseVisualStyleBackColor = true;
-            // 
-            // btnKurang
-            // 
-            this.btnKurang.Location = new System.Drawing.Point(46, 4);
-            this.btnKurang.Name = "btnKurang";
-            this.btnKurang.Size = new System.Drawing.Size(33, 23);
-            this.btnKurang.TabIndex = 1;
-            this.btnKurang.Text = "-";
-            this.btnKurang.UseVisualStyleBackColor = true;
-            // 
-            // btnKali
-            // 
-            this.btnKali.Location = new System.Drawing.Point(4, 34);
-            this.btnKali.Name = "btnKali";
-            this.btnKali.Size = new System.Drawing.Size(36, 23);
-            this.btnKali.TabIndex = 2;
-            this.btnKali.Text = "x";
-            this.btnKali.UseVisualStyleBackColor = true;
+            this.btnClear.Location = new System.Drawing.Point(4, 72);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(75, 23);
+            this.btnClear.TabIndex = 4;
+            this.btnClear.Text = "C";
+            this.btnClear.UseVisualStyleBackColor = true;
             // 
             // btnBagi
             // 
@@ -106,14 +88,33 @@
             this.btnBagi.UseVisualStyleBackColor = true;
             this.btnBagi.Click += new System.EventHandler(this.btnBagi_Click);
             // 
-            // btnClear
+            // btnKali
             // 
-            this.btnClear.Location = new System.Drawing.Point(4, 72);
-            this.btnClear.Name = "btnClear";
-            this.btnClear.Size = new System.Drawing.Size(75, 23);
-            this.btnClear.TabIndex = 4;
-            this.btnClear.Text = "C";
-            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnKali.Location = new System.Drawing.Point(4, 34);
+            this.btnKali.Name = "btnKali";
+            this.btnKali.Size = new System.Drawing.Size(36, 23);
+            this.btnKali.TabIndex = 2;
+            this.btnKali.Text = "x";
+            this.btnKali.UseVisualStyleBackColor = true;
+            // 
+            // btnKurang
+            // 
+            this.btnKurang.Location = new System.Drawing.Point(46, 4);
+            this.btnKurang.Name = "btnKurang";
+            this.btnKurang.Size = new System.Drawing.Size(33, 23);
+            this.btnKurang.TabIndex = 1;
+            this.btnKurang.Text = "-";
+            this.btnKurang.UseVisualStyleBackColor = true;
+            // 
+            // btnTambah
+            // 
+            this.btnTambah.Location = new System.Drawing.Point(4, 4);
+            this.btnTambah.Name = "btnTambah";
+            this.btnTambah.Size = new System.Drawing.Size(36, 23);
+            this.btnTambah.TabIndex = 0;
+            this.btnTambah.Text = "+";
+            this.btnTambah.UseVisualStyleBackColor = true;
+            this.btnTambah.Click += new System.EventHandler(this.btnTambah_Click);
             // 
             // txtBoxNilai1
             // 
@@ -190,6 +191,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Kalkulator";
             this.Text = "Kalkulator";
+            this.Load += new System.EventHandler(this.Kalkulator_Load);
             this.panel1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

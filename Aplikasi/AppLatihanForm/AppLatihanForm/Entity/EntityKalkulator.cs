@@ -8,6 +8,8 @@ namespace AppLatihanForm.Entity
 {
     class EntityKalkulator
     {
+        //tahap pertama
+        //pendeklarasian variabel
         private double nilai1;
         private double nilai2;
 
@@ -23,7 +25,7 @@ namespace AppLatihanForm.Entity
 
         public void SetNilai2(double _nilai2)
         {
-            nilai1 = _nilai2;
+            nilai2 = _nilai2;
         }
 
         public double GetNilai2()
