@@ -1,0 +1,6 @@
+D:\15.11.9382\Aplikasi\Responsi9382\Responsi9382\bin\Debug\Responsi9382.exe.config
+D:\15.11.9382\Aplikasi\Responsi9382\Responsi9382\bin\Debug\Responsi9382.exe
+D:\15.11.9382\Aplikasi\Responsi9382\Responsi9382\bin\Debug\Responsi9382.pdb
+D:\15.11.9382\Aplikasi\Responsi9382\Responsi9382\obj\Debug\Responsi9382.csprojResolveAssemblyReference.cache
+D:\15.11.9382\Aplikasi\Responsi9382\Responsi9382\obj\Debug\Responsi9382.exe
+D:\15.11.9382\Aplikasi\Responsi9382\Responsi9382\obj\Debug\Responsi9382.pdb

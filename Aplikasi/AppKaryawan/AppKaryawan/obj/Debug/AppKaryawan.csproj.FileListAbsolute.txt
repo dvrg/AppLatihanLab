@@ -1,0 +1,6 @@
+D:\15.11.9382\Aplikasi\AppKaryawan\AppKaryawan\bin\Debug\AppKaryawan.exe.config
+D:\15.11.9382\Aplikasi\AppKaryawan\AppKaryawan\bin\Debug\AppKaryawan.exe
+D:\15.11.9382\Aplikasi\AppKaryawan\AppKaryawan\bin\Debug\AppKaryawan.pdb
+D:\15.11.9382\Aplikasi\AppKaryawan\AppKaryawan\obj\Debug\AppKaryawan.csprojResolveAssemblyReference.cache
+D:\15.11.9382\Aplikasi\AppKaryawan\AppKaryawan\obj\Debug\AppKaryawan.exe
+D:\15.11.9382\Aplikasi\AppKaryawan\AppKaryawan\obj\Debug\AppKaryawan.pdb

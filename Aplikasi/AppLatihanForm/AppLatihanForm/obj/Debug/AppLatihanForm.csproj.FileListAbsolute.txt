@@ -1,0 +1,9 @@
+D:\15.11.9382\Aplikasi\AppLatihanForm\AppLatihanForm\bin\Debug\AppLatihanForm.exe.config
+D:\15.11.9382\Aplikasi\AppLatihanForm\AppLatihanForm\bin\Debug\AppLatihanForm.exe
+D:\15.11.9382\Aplikasi\AppLatihanForm\AppLatihanForm\bin\Debug\AppLatihanForm.pdb
+D:\15.11.9382\Aplikasi\AppLatihanForm\AppLatihanForm\obj\Debug\AppLatihanForm.csprojResolveAssemblyReference.cache
+D:\15.11.9382\Aplikasi\AppLatihanForm\AppLatihanForm\obj\Debug\AppLatihanForm.Form1.resources
+D:\15.11.9382\Aplikasi\AppLatihanForm\AppLatihanForm\obj\Debug\AppLatihanForm.Properties.Resources.resources
+D:\15.11.9382\Aplikasi\AppLatihanForm\AppLatihanForm\obj\Debug\AppLatihanForm.csproj.GenerateResource.Cache
+D:\15.11.9382\Aplikasi\AppLatihanForm\AppLatihanForm\obj\Debug\AppLatihanForm.exe
+D:\15.11.9382\Aplikasi\AppLatihanForm\AppLatihanForm\obj\Debug\AppLatihanForm.pdb

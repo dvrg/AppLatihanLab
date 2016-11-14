@@ -1,0 +1,12 @@
+D:\15.11.9382\New folder\AppLatihan\AppLatihan\bin\Debug\AppLatihan.exe.config
+D:\15.11.9382\New folder\AppLatihan\AppLatihan\obj\Debug\AppLatihan.csprojResolveAssemblyReference.cache
+D:\15.11.9382\New folder\AppLatihan\AppLatihan\bin\Debug\AppLatihan.exe
+D:\15.11.9382\New folder\AppLatihan\AppLatihan\bin\Debug\AppLatihan.pdb
+D:\15.11.9382\New folder\AppLatihan\AppLatihan\obj\Debug\AppLatihan.exe
+D:\15.11.9382\New folder\AppLatihan\AppLatihan\obj\Debug\AppLatihan.pdb
+D:\15.11.9382\Aplikasi\AppLatihan\AppLatihan\bin\Debug\AppLatihan.exe.config
+D:\15.11.9382\Aplikasi\AppLatihan\AppLatihan\obj\Debug\AppLatihan.exe
+D:\15.11.9382\Aplikasi\AppLatihan\AppLatihan\obj\Debug\AppLatihan.pdb
+D:\15.11.9382\Aplikasi\AppLatihan\AppLatihan\obj\Debug\AppLatihan.csprojResolveAssemblyReference.cache
+D:\15.11.9382\Aplikasi\AppLatihan\AppLatihan\bin\Debug\AppLatihan.exe
+D:\15.11.9382\Aplikasi\AppLatihan\AppLatihan\bin\Debug\AppLatihan.pdb
