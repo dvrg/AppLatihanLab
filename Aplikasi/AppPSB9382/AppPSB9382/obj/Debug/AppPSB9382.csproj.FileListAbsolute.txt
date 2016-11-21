@@ -1,0 +1,9 @@
+D:\15.11.9382\Aplikasi\AppPSB9382\AppPSB9382\bin\Debug\AppPSB9382.exe.config
+D:\15.11.9382\Aplikasi\AppPSB9382\AppPSB9382\obj\Debug\AppPSB9382.csprojResolveAssemblyReference.cache
+D:\15.11.9382\Aplikasi\AppPSB9382\AppPSB9382\obj\Debug\AppPSB9382.Properties.Resources.resources
+D:\15.11.9382\Aplikasi\AppPSB9382\AppPSB9382\obj\Debug\AppPSB9382.Form1.resources
+D:\15.11.9382\Aplikasi\AppPSB9382\AppPSB9382\obj\Debug\AppPSB9382.csproj.GenerateResource.Cache
+D:\15.11.9382\Aplikasi\AppPSB9382\AppPSB9382\bin\Debug\AppPSB9382.exe
+D:\15.11.9382\Aplikasi\AppPSB9382\AppPSB9382\bin\Debug\AppPSB9382.pdb
+D:\15.11.9382\Aplikasi\AppPSB9382\AppPSB9382\obj\Debug\AppPSB9382.exe
+D:\15.11.9382\Aplikasi\AppPSB9382\AppPSB9382\obj\Debug\AppPSB9382.pdb
